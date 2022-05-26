@@ -1,5 +1,0 @@
-CS211 Project Information
-
-Geographical Optimization
-Find best route
-Try background image (See earlier routes on graphics)
